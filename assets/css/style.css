@@ -1,0 +1,27 @@
+.header{
+    height: 200px;
+    background-image: url(../img/money.jpeg);
+    text-align: left;
+    background-position: center;
+    background-size: cover;
+    border: 5px solid rgb(23, 23, 112);
+    color: red;
+}
+ .parafo{
+    color: black;
+ }
+ .section img{
+   width: 155px;
+   margin: auto ;
+   height: 160px;
+   border: 2px solid rgb(112, 23, 81);
+ }
+ .section p{
+   padding: 8px;
+   line-height: 1px;
+ }
+ .footer{
+    text-align: center;
+    background-color: brown;
+    border: 3px solid rgb(23, 23, 112);
+ }
